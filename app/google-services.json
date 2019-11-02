@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431320826897",
+    "firebase_url": "https://qomariahkd-mws.firebaseio.com",
+    "project_id": "qomariahkd-mws",
+    "storage_bucket": "qomariahkd-mws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431320826897:android:cba72ef05450e228f75db0",
+        "android_client_info": {
+          "package_name": "com.qomariahkumaladewi.testfirebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431320826897-fq2e7c9uuofv4kdh220e08udr14uhj2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qomariahkumaladewi.testfirebasepushnotification",
+            "certificate_hash": "1c89983978f2d7dd3707c82d50751557961293ec"
+          }
+        },
+        {
+          "client_id": "431320826897-5j7f0tcus1slhrl83okg9uamhogbgqdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbSgT54U3uilIjrKirs8rR_vBqoDgpCh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431320826897-5j7f0tcus1slhrl83okg9uamhogbgqdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
